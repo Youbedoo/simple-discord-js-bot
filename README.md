@@ -1,5 +1,8 @@
 # Simple Discord JS Bot
-A starter bot and "framework" to build Discord bots from.
+A starter bot and "framework" to
+
+
+ build Discord bots from.
 
 ## Version 2!
 This updated version adds some new functionality to allow for the easy creation of more advanced
